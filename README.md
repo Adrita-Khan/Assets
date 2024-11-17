@@ -23,11 +23,6 @@ Assets in this repository will be organized for quick reference and easy linking
 - **/scripts**: Python scripts and utilities supporting data preprocessing, model training, and analysis.
 - **/css**: Custom stylesheets to maintain consistent design across my projects.
 
----
-
-## 📜 Featured Projects
-
-Here’s a snapshot of some of my key projects that reflect my skills and areas of interest:
 
 ## 📜 Featured Projects
 
