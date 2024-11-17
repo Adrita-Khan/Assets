@@ -29,10 +29,16 @@ Assets in this repository will be organized for quick reference and easy linking
 
 Here’s a snapshot of some of my key projects that reflect my skills and areas of interest:
 
-- **[Photometric Redshift Estimation](https://github.com/Adrita-Khan/photometric-redshift-estimation)**: Utilizing machine learning to improve the accuracy of photometric redshifts with SDSS-based synthetic datasets.
-- **[Machine Learning for Exoplanet Detection](https://github.com/Adrita-Khan/exoplanet-detection)**: A project focusing on exoplanet detection using machine learning classifiers.
-- **[Data Science in Astronomy](https://github.com/Adrita-Khan/astronomy-data-science)**: Applying data science techniques in astronomical data analysis, focusing on large-scale structures and cosmic phenomena.
-- **[RFI Mitigation in Radio Astronomy](https://github.com/Adrita-Khan/rfi-mitigation)**: Leveraging machine learning techniques for radio frequency interference mitigation in radio astronomy.
+## 📜 Featured Projects
+
+Below are some of my key projects, showcasing my work in astronomy, data science, and machine learning:
+
+- **[Photometric Redshift Estimation](https://github.com/Adrita-Khan/AstroPhotoZ)**: Leveraging machine learning to enhance the accuracy of photometric redshift estimations using SDSS-based synthetic datasets.
+- **[Machine Learning for Exoplanet Detection](https://github.com/Adrita-Khan/ExoplanetDetectionML)**: A machine learning-based project focused on detecting exoplanets through various classification techniques.
+- **[Astroinformatics](https://github.com/Adrita-Khan/Astroinformatics)**: Exploring astroinformatics, data analysis, and computational tools for handling large-scale astronomical data.
+- **[AstroSignal Processing](https://github.com/Adrita-Khan/AstroSignal)**: Techniques and methods for analyzing and processing astronomical signals, with a focus on data integrity and signal clarity.
+- **[Astronomy Resources](https://github.com/Adrita-Khan/Astro_Resources)**: A curated collection of resources, datasets, and references for astronomy and astrophysics research.
+- **[Benchmarking Radio Decays](https://github.com/Adrita-Khan/Benchmarking_RadioDecays)**: Evaluating radio decay models and methodologies, with applications in radio astronomy and signal processing.
 
 For a complete list of my repositories and contributions, visit my [GitHub profile](https://github.com/Adrita-Khan).
 
